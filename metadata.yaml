@@ -1,0 +1,46 @@
+_repo: Pyhan-Pietarin-sateenvarjo-b-Kertomus-Yla-Unkarista_74213
+_version: 0.0.1
+alternative_title: Szent Péter esernyője. Finnish
+contributor:
+  translator:
+    agent_name: Wainio, Niilo E.
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '39842'
+    url: http://www.gutenberg.org/2009/agents/39842
+    wikipedia: https://fi.wikipedia.org/wiki/Niilo_E._Wainio
+creator:
+  author:
+    agent_name: Mikszáth, Kálmán
+    aliases:
+    - Kálmán Mikszáth
+    - Mikszath, Kalman
+    - Mikszáth, Kálman
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '26008'
+    url: http://www.gutenberg.org/2009/agents/26008
+    wikipedia:
+    - https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
+    - https://hu.wikipedia.org/wiki/Mikszáth_Kálmán_(író)
+description: ''
+gutenberg_issued: '2024-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74213'
+language: fi
+pgterms:marc905: 20240625014029mikszth
+pgterms:marc906: '1912'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bKust.Oy Kirja, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungary -- Fiction'
+- !lcsh 'Hungarian fiction -- Translations into Finnish'
+- !lcc 'PH'
+- GITenberg
+title: 'Pyhän Pietarin sateenvarjo : $b Kertomus Ylä-Unkarista'
+url: http://www.gutenberg.org/ebooks/74213
